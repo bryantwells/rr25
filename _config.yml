@@ -1,0 +1,8 @@
+title: Radio Radius 25
+includes_dir: _layouts/_includes
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
