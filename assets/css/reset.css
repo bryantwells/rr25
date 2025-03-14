@@ -10,25 +10,47 @@ html {
 	color: brown;
 }
 
+nav {
+	text-align: center;
+}
+
 body {
 	margin: 0;
 	max-width: 60ch;
 	margin: auto;
-	padding: 0 1rem;
+	padding: 1rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	margin: 1rem 0;
 }
 
+h4, h5, h6 {
+	margin-bottom: 0;
+}
+
 p {
-	margin: 1rem 0;
+	margin-top: 0;
+	margin-bottom: 1rem;
 }
 
 ul, ol {
 	margin: 1rem 0;
 	padding: 0;
-	list-style: none;
+	padding-left: 1.5rem;
+	list-style-type: none;
+}
+
+li {
+	position: relative;
+}
+
+li::before {
+	content: '✶';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -1.5rem;
 }
 
 table {
@@ -36,15 +58,38 @@ table {
 	width: 100%;
 	border-collapse: collapse;
 	border: 1px solid currentColor;
+	position: relative;
+	background-color: white;
+}
+
+thead {
+	border: 1px solid currentColor;
+	cursor: pointer;
+}
+
+thead:after {
+	content: '';
+	position: absolute;
+	display: block;
+	width: .75rem;
+	box-sizing: border-box;
+	border-left: .375rem solid transparent;
+	border-right: .375rem solid transparent;
+	aspect-ratio: 1/1;
+	top: 0.7rem;
+	right: 0.7rem;
+}
+
+thead[data-open="true"]:after {
+	border-bottom: .75rem solid currentColor;
+}
+
+thead[data-open="false"]:after {
+	border-top: .75rem solid currentColor;
 }
 
 th, td {
 	padding: 0.4rem;
-	background-color: white;
-}
-
-th {
-	border: 1px solid currentColor;
 }
 
 td {
@@ -52,11 +97,11 @@ td {
 }
 
 a {
-	color: blue;
+	color: currentColor;
 }
 
 a:hover {
-	color: green;
+	color: blue;
 }
 
 hr {
