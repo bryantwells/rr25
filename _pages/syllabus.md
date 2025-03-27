@@ -81,9 +81,8 @@ Students will build their own transmitters, capable of transmitting within a ~1 
 
 ---
 
-### Materials
+### Special Question
 
-- Laptop with a camera (for online resources, documentation, remote check-ins)
-- Soldering iron (provided by the instructor)
-- FM radio receiver (provided by the instructor)
-- Mini FM transmitter kit (provided by the instructor)
+- How does radio reconfigure our sense of "local" in contrast to the global internet?
+- What are the ethical implications of broadcasting in a local context?
+- Can sound serve as a tool for building more equitable and accessible networks?
