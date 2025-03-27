@@ -27,18 +27,18 @@ How do you relate to this place through sound?
 
 ### Readings and Listenings
 
-If you had one minute to share the sonic identity of a space, what would it be?
-What individual sounds do you hear? How do they come together into a gestalt, an ecosystem?
-What social, political, environmental conditions do these sounds reflect?
+If you had one minute to share the sonic identity of a space, what would it be? <br>
+What individual sounds do you hear? How do they come together into a gestalt, an ecosystem? <br>
+What social, political, environmental conditions do these sounds reflect? <br>
 How do you relate to this place through sound?
 
-Required
-[Shook World](https://algierstheband.bandcamp.com/album/shook-world-hosted-by-algiers), King Vision Ultra
-[Ear Piece](https://www.kim-cohen.com/Assets/CourseAssets/Texts/Oliveros_Ear%20Piece%20(1998).PDF), Pauline Oliveros
+Required <br>
+[Shook World](https://algierstheband.bandcamp.com/album/shook-world-hosted-by-algiers), King Vision Ultra <br>
+[Ear Piece](https://www.kim-cohen.com/Assets/CourseAssets/Texts/Oliveros_Ear%20Piece%20(1998).PDF), Pauline Oliveros <br>
 [Toward Polymorphous Radio](https://drive.google.com/file/d/1YDdtHzgt00Tn1E4vpdQdbLqyKVmCRprT/view?usp=sharing), Tetsuo Kogawa, c. 1981
 
-Extended
-[Vancouver Soundscape](https://www.sfu.ca/sonic-studio-webdav/WSP_Doc/Booklets/Vanscape1.pdf), World Soundscape Project
-[Sh!t](https://attachments.are.na/35567766/27327d5618ff01a2c81ba82337b3a6c2.pdf?1743106294), Simone White
-[KMRU: Spaces](https://www.youtube.com/watch?v=jxRbgvRNoS4)
+Extended <br>
+[Vancouver Soundscape](https://www.sfu.ca/sonic-studio-webdav/WSP_Doc/Booklets/Vanscape1.pdf), World Soundscape Project <br>
+[Sh!t](https://attachments.are.na/35567766/27327d5618ff01a2c81ba82337b3a6c2.pdf?1743106294), Simone White <br>
+[KMRU: Spaces](https://www.youtube.com/watch?v=jxRbgvRNoS4) <br>
 [Sonic Experience: A Guide to Everyday Sound(Ubiquity Chapter)](https://attachments.are.na/12509280/108be580b3e8789556c4a09eb6f06bf2.pdf?1626041041), Jean-François Augoyard and Henry Torgue
