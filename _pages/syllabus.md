@@ -36,13 +36,53 @@ Students will build their own transmitters, capable of transmitting within a ~1 
 
 ### Assignments
 
-- No prior technical knowledge is required, but students should expect to engage with some light technical work like the basics of soldering and building a low-power FM transmitter.
-- Students should plan to dedicate two to three hours per week outside of class for hands-on building, project development, or assigned reading/listening.
-- The class will culminate in a 30-minute broadcast, transmitted locally and archived in a shared communal repository.
+1. Sit Spot .MP3 (Weeks 1–2)
+2. Narrowcast (Weeks 2–7)
+
+
+---
+
+### Schedule (By Week)
+
+1. In Class: Introductions, Listening (in-person)
+    
+    At Home: Sit Spot MP3
+
+2.  In Class: Sound and the City (online w/ Geng PTP)
+    
+    At Home: Workshop Prep
+
+3. In Class: Workshop (Part 1) (in-person)
+
+    At Home: Narrowcast Concept
+
+4. In Class: Radio and Community (online w/ Babette Thomas)
+    
+    At Home: Narrowcast Draft
+
+5. In Class: Workshop (Part 2) (in-person)
+    
+    At Home: Narrowcast Production
+
+6. In Class: Site-Specificity (online w/ Lina Chang)
+
+    At Home: Narrowcast Final
+
+7. In Class: Narrowcast & Reflection (online)
 
 ---
 
 ### Materials
+
+- Laptop with a camera (for online resources, documentation, remote check-ins)
+- Soldering iron (provided by the instructor)
+- FM radio receiver (provided by the instructor)
+- Mini FM transmitter kit (provided by the instructor)
+
+---
+
+### Materials
+
 - Laptop with a camera (for online resources, documentation, remote check-ins)
 - Soldering iron (provided by the instructor)
 - FM radio receiver (provided by the instructor)

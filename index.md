@@ -16,7 +16,7 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 | [Icebreaker]() |
 | [Class Introduction](https://docs.google.com/presentation/d/11KezbYaHCQYjqxvn0Nppfzkjcjn0nWuvV7rv7OZuywU/edit?slide=id.g327ebcdbed1_0_4#slide=id.g327ebcdbed1_0_4) |
 | Break |
-| [Syllabus and  Materials Exchange](/syllabus.html) |
+| [Syllabus Review](/syllabus.html) and  Materials Exchange |
 | [Introduce Sit Spot Assignment](/sit-spot.html) |
 | [Introduce Soundwalk Workshop](/sound-walk.html) |
 
@@ -31,7 +31,5 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 
 ---
 
-- [Resources]()
 - [Syllabus](/syllabus.html)
-- [TKTK]()
 
