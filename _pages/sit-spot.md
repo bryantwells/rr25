@@ -7,10 +7,10 @@ layout: default
 
 Make a short audio recording (or collage, mix, or composition) of a place that feels meaningful or resonant to you. This could be a new recording, or a return to a place you’ve explored before. We’re interested in your relationship to a soundscape — how sound reflects your experience, your interests, or your work. Use any recording device you have available: your phone, a handheld recorder, etc.
 
-Respect:
+#### Respect <br>
 - Be mindful of your presence as a listener and recorder. Be respectful of other people and other species. You are encouraged to redact, obscure, or edit out any content you feel should remain private or protected.
 
-Requirements:
+#### Requirements <br>
 - A 1-minute (max) audio file to share in our next class. You may record or compile more, but please select a 1-minute excerpt to present.
 - The recording can be raw, edited, layered, or collaged — however you wish. The focus is on deep listening, not technical perfection.
 
