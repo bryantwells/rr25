@@ -1,4 +1,4 @@
 ---
-title: Sit Spot
+title: Sound Walk
 layout: default
 ---

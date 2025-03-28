@@ -13,16 +13,16 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 
 | In Class |
 | :--- |
-| [Icebreaker]() |
+| Icebreaker |
 | [Class Introduction](https://docs.google.com/presentation/d/11KezbYaHCQYjqxvn0Nppfzkjcjn0nWuvV7rv7OZuywU/edit?slide=id.g327ebcdbed1_0_4#slide=id.g327ebcdbed1_0_4) |
 | Break |
 | [Syllabus Review](/syllabus.html) and  Materials Exchange |
-| [Introduce Sit Spot Assignment](/sit-spot.html) |
+| [Introduce Sit Spot .MP3 Assignment](/sit-spot.html) |
 | [Introduce Soundwalk Workshop](/sound-walk.html) |
 
 | At Home |
 | :--- |
-| [Sit Spot](/sit-spot.html) |
+| [Sit Spot .MP3](/sit-spot.html) |
 
 ---
 

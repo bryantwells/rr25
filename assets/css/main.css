@@ -1,0 +1,130 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 18px;
+	line-height: 1.25;
+	text-underline-offset: 0.15em;
+	background-color: #EEEEEE;
+	color: brown;
+}
+
+nav {
+	text-align: center;
+}
+
+body {
+	margin: 0;
+	max-width: 60ch;
+	margin: auto;
+	padding: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 1rem 0;
+}
+
+h4, h5, h6 {
+	margin-bottom: 0;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+
+ul, ol {
+	margin: 1rem 0;
+	padding: 0;
+	padding-left: 1.5rem;
+	list-style-type: none;
+}
+
+ol {
+	counter-reset: list;
+}
+
+li {
+	position: relative;
+}
+
+ul li::before {
+	content: '✶';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -1.5rem;
+}
+
+ol li::before {
+	counter-increment: list;
+	content: counter(list) ".";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -1.5rem;
+}
+
+table {
+	margin: 1rem 0;
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid currentColor;
+	position: relative;
+	background-color: white;
+}
+
+thead {
+	border: 1px solid currentColor;
+	cursor: pointer;
+}
+
+thead:after {
+	content: '';
+	position: absolute;
+	display: block;
+	width: .75rem;
+	box-sizing: border-box;
+	border-left: .375rem solid transparent;
+	border-right: .375rem solid transparent;
+	aspect-ratio: 1/1;
+	top: 0.7rem;
+	right: 0.7rem;
+}
+
+thead[data-open="true"]:after {
+	border-bottom: .75rem solid currentColor;
+}
+
+thead[data-open="false"]:after {
+	border-top: .75rem solid currentColor;
+}
+
+th, td {
+	padding: 0.4rem;
+}
+
+td {
+	border: 1px dashed currentColor;
+}
+
+a {
+	color: currentColor;
+}
+
+a:hover {
+	color: blue;
+}
+
+hr {
+	border-color: currentColor;
+	border-bottom-width: 0;
+}
+
+img {
+	padding: 0 1rem;
+	margin: 1rem auto;
+	max-width: 100%;
+	display: block;
+}

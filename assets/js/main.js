@@ -2,6 +2,7 @@ document.querySelectorAll('table').forEach((table) => {
 	const thead = table.querySelector('thead');
 	const tbody = table.querySelector('tbody');
 	toggle();
+	toggle();
 	thead.addEventListener('click', () => {
 		toggle();
 	});
