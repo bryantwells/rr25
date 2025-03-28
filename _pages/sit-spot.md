@@ -27,13 +27,13 @@ Requirements:
 
 ### Readings and Listenings
 
-#### Required <br>
-- [Shook World](https://algierstheband.bandcamp.com/album/shook-world-hosted-by-algiers), King Vision Ultra <br>
-- [Ear Piece](https://www.kim-cohen.com/Assets/CourseAssets/Texts/Oliveros_Ear%20Piece%20(1998).PDF), Pauline Oliveros <br>
+#### Required
+- [Shook World](https://algierstheband.bandcamp.com/album/shook-world-hosted-by-algiers), King Vision Ultra
+- [Ear Piece](https://www.kim-cohen.com/Assets/CourseAssets/Texts/Oliveros_Ear%20Piece%20(1998).PDF), Pauline Oliveros
 - [Toward Polymorphous Radio](https://drive.google.com/file/d/1YDdtHzgt00Tn1E4vpdQdbLqyKVmCRprT/view?usp=sharing), Tetsuo Kogawa, c. 1981
 
-#### Extended <br>
-- [Vancouver Soundscape](https://www.sfu.ca/sonic-studio-webdav/WSP_Doc/Booklets/Vanscape1.pdf), World Soundscape Project <br>
-- [Sh!t](https://attachments.are.na/35567766/27327d5618ff01a2c81ba82337b3a6c2.pdf?1743106294), Simone White <br>
-- [KMRU: Spaces](https://www.youtube.com/watch?v=jxRbgvRNoS4) <br>
+#### Extended
+- [Vancouver Soundscape](https://www.sfu.ca/sonic-studio-webdav/WSP_Doc/Booklets/Vanscape1.pdf), World Soundscape Project
+- [Sh!t](https://attachments.are.na/35567766/27327d5618ff01a2c81ba82337b3a6c2.pdf?1743106294), Simone White
+- [KMRU: Spaces](https://www.youtube.com/watch?v=jxRbgvRNoS4)
 - [Sonic Experience: A Guide to Everyday Sound(Ubiquity Chapter)](https://attachments.are.na/12509280/108be580b3e8789556c4a09eb6f06bf2.pdf?1626041041), Jean-François Augoyard and Henry Torgue

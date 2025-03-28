@@ -2,8 +2,16 @@ header, footer {
 	display: none;
 }
 
+h1, h2, h3, h4, p, ol, ul, hr {
+	margin: 1rem 0;
+}
+
 ul, ol, p {
 	page-break-inside: avoid;
+}
+
+page-break {
+	page-break-after: always;
 }
 
 h4 {
@@ -14,6 +22,6 @@ h4 + p {
 	margin-top: 0;
 }
 
-hr:first-of-type, hr:last-of-type {
+body > hr:last-of-type {
 	display: none;
 }

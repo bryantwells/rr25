@@ -39,7 +39,7 @@ Students will build their own transmitters, capable of transmitting within a ~1 
 1. Sit Spot .MP3 (Weeks 1–2)
 2. Narrowcast (Weeks 2–7)
 
-
+<page-break></page-break>
 ---
 
 ### Schedule (By Week)
