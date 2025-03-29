@@ -18,7 +18,7 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 | Break |
 | [Syllabus Review](/syllabus.html) and  Materials Exchange |
 | [Introduce Sit Spot .MP3 Assignment](/sit-spot.html) |
-| [Introduce Soundwalk Workshop](/sound-walk.html) |
+| [Introduce Sound Walk Workshop](/sound-walk.html) |
 
 | At Home |
 | :--- |
