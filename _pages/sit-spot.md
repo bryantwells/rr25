@@ -36,4 +36,4 @@ Make a short audio recording (or collage, mix, or composition) of a place that f
 - [Vancouver Soundscape](https://www.sfu.ca/sonic-studio-webdav/WSP_Doc/Booklets/Vanscape1.pdf), World Soundscape Project
 - [Sh!t](https://attachments.are.na/35567766/27327d5618ff01a2c81ba82337b3a6c2.pdf?1743106294), Simone White
 - [KMRU: Spaces](https://www.youtube.com/watch?v=jxRbgvRNoS4)
-- [Sonic Experience: A Guide to Everyday Sound(Ubiquity Chapter)](https://attachments.are.na/12509280/108be580b3e8789556c4a09eb6f06bf2.pdf?1626041041), Jean-François Augoyard and Henry Torgue
+- [Sonic Experience: A Guide to Everyday Sound](https://attachments.are.na/12509280/108be580b3e8789556c4a09eb6f06bf2.pdf?1626041041) (Ubiquity section of Guide to Sonic Effects chapter, pp 130-145), Jean-François Augoyard and Henry Torgue
