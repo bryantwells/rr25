@@ -36,7 +36,7 @@ Students will build their own transmitters, capable of transmitting within a ~1 
 
 ### Assignments
 
-1. Sit Spot .MP3 (Weeks 1–2)
+1. [Sit Spot .MP3](https://rr25.daemon.earth/sit-spot.html) (Weeks 1–2)
 2. Narrowcast (Weeks 2–7)
 
 <page-break></page-break>
@@ -44,9 +44,9 @@ Students will build their own transmitters, capable of transmitting within a ~1 
 
 ### Schedule (By Week)
 
-1. In Class: Introductions, Listening (in-person)
+1. In Class: Introductions, [Sound Walk](https://rr25.daemon.earth/sound-walk.html) (in-person)
     
-    At Home: Sit Spot MP3
+    At Home: [Sit Spot .MP3](https://rr25.daemon.earth/sit-spot.html)
 
 2.  In Class: Sound and the City (online w/ Geng PTP)
     
