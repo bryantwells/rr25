@@ -7,7 +7,7 @@ layout: default
 
 <em>[“walk so silently your feet become ears.”](https://www.are.na/block/35413619)</em>
 
-After our first session, take a soundwalk — ideally on your way home, or somewhere familiar. Begin by taking a moment to calibrate and listen. When you’re ready, choose how to respond. You might record with any device you have available, write down notes or observations, map or sketch your soundscape, or simply listen deeply and reflect.
+After our first session, take a soundwalk — ideally on your way home, or somewhere familiar. Begin by taking a moment to recalibrate and focus on listening. When you’re ready, choose how to respond. You might record with any device you have available, write down notes or observations, map or sketch your soundscape, or simply listen deeply and reflect — but it’s important to note this workshop is separate from the assignment and doesn’t need to result in anything, it’s simply about tuning our sense of hearing.
 
 ---
 
