@@ -20,11 +20,11 @@ The format, duration, and content of your narrowcast are open-ended, but you sho
 
 ### Questions
 
-- What is your relationship to your site, how does your work activate or reveal it?
+- What is your relationship to your site of transmission, how does your work activate or reveal it?
 - What frequencies are available?
 - Is your transmission fixed, mobile, ephemeral? 
 - Who might be listening? For how long?
-- How is it encountered? By accident, by sign, by rumor? Consider visual cues – stickers, flyers, physical components, etc.
+- How is it encountered? By accident, by sign, by rumor?
 - Can you take advantage of the qualities unique to radio? Body capacitance, proximity, signal noise, etc.
 
 ---
