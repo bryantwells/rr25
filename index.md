@@ -42,6 +42,21 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 
 ---
 
+## Week 3
+
+| In Class |
+| :--- |
+| Housekeeping (Class Are.na, Office Hours, ...) |
+| [Mini TX Workshop](/mini-tx-1.html) |
+| [Introduce Narrowcast Project](/narrowcast.html) |
+
+| At Home |
+| :--- |
+| [Week 4 Readings and Listenings](/week-4.html) |
+| [Narrowcast Part 1: Concept](/narrowcast.html) |
+
+---
+
 ![Meditations](/media/meditations.webp)
 *T. Lowe and T. Gilkes-Bower, “Meditations, Part 2: Bloodlines with Addis Pablo, Jesse Royal + Tesfa Zion,” LargeUp TV, 2013.*
 

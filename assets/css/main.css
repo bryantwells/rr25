@@ -4,7 +4,7 @@
 
 html {
 	font-size: 18px;
-	line-height: 1.25;
+	line-height: 1.5;
 	text-underline-offset: 0.15em;
 	background-color: #EEEEEE;
 	color: rgb(120, 63, 4);
@@ -37,8 +37,15 @@ p {
 ul, ol {
 	margin: 1rem 0;
 	padding: 0;
-	padding-left: 1.5rem;
+	padding-left: 1.25rem;
 	list-style-type: none;
+}
+
+
+
+ul ul,
+ol ol {
+	margin: 0;
 }
 
 ol {
@@ -50,11 +57,11 @@ li {
 }
 
 ul li::before {
-	content: '✶';
+	content: '✳︎';
 	display: block;
 	position: absolute;
 	top: 0;
-	left: -1.5rem;
+	left: -1.25rem;
 }
 
 ol li::before {
@@ -63,7 +70,25 @@ ol li::before {
 	display: block;
 	position: absolute;
 	top: 0;
-	left: -1.5rem;
+	left: -1.25rem;
+}
+
+.task-list {
+	padding: 0;
+}
+
+ul .task-list,
+ol .task-list {
+	padding-left: 1.25rem;
+}
+
+.task-list li::before {
+	content: '';
+}
+
+.task-list-item-checkbox {
+	margin: 0;
+	margin-right: 0.75rem;
 }
 
 table {
@@ -127,4 +152,5 @@ img {
 	margin: 1rem auto;
 	max-width: 100%;
 	display: block;
+	cursor: pointer;
 }

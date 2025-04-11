@@ -3,18 +3,74 @@ title: Syllabus
 layout: default
 ---
 
-# Narrowcast
+# Narrowcast (Weeks 3-7)
 
-Develop a site-specific transmission. Feel free to use the transmitter we have made in class in conjunction with any audio production techniques of your choice. Length and content is up to you. Consider the relationship between the sound and the space – who might be listening, for how long? Think of methods of audio production unique to the medium, body capacitance, etc. Conversation, Music, Sound, Experiment? How is your station made known? Is it stationary? Mobile? Consider visual cues – stickers, flyers, physical components, etc. 
+Create a site-specific ‘narrowcast’ transmission that responds to a particular context – social, spatial, sonic, or otherwise. You may use the transmitters we built in class (as-is or modified), work with multiple transmitters, or experiment with other transmission tools. Consider transmission as a form of…
 
-Part 1. Concept
-Choose your location. What does it sound like. What are the available (FM) Bands. What would you like to transmit? Be prepared to discuss in class. 
+- Sonic practice
+- Sculpture
+- Performance
+- Physical practice
+- Social practice
+- Publishing or dissemination
 
-Part 2. Draft
-A sonic draft of your transmission. Be prepared to discuss in class. 
+The format, duration, and content of your narrowcast are open-ended, but you should be prepared to share a brief excerpt – either as a live transmission, recording, or documentation – in our final class.
 
-Part 3. Production
-Finalized draft of your transmission – debugging and dry run.
+---
 
-Part 4. Transmission 
-A recording of your transmission, combined with a ‘thumbnail’ – an image that represents your transmission in situ. These will be combined and archived online. 
+### Questions
+
+- What is your relationship to your site, how does your work activate or reveal it?
+- What frequencies are available?
+- Is your transmission fixed, mobile, ephemeral? 
+- Who might be listening? For how long?
+- How is it encountered? By accident, by sign, by rumor? Consider visual cues – stickers, flyers, physical components, etc.
+- Can you take advantage of the qualities unique to radio? Body capacitance, proximity, signal noise, etc.
+
+---
+
+### Part 1: Concept (Week 3–4)
+
+Prepare a brief summary of your narrowcast concept (~1 paragraph) outlining your intentions, the location (or context), and what you plan to transmit. Bring supporting materials (audio snippet, sketches, image reference, notes) for discussion in class.
+
+--- 
+
+### Part 2: Draft (Week 4–5)
+
+---
+
+### Part 3: Production (Week 5–6)
+
+---
+
+### Part 4: Final (Week 6–7)
+
+---
+
+## Reference
+
+Hidden Sound, Hidden Meaning
+- [Black Poplar: 89.6MHz, Dan Disciglio](https://danndisciglio.com/black-poplar-896-mhz)
+- [Pull Up, Simone White](https://vol3.temporaryliveness.org/)
+- [Hellschreiber](https://en.wikipedia.org/wiki/Hellschreiber)
+- [Pond Station, Zach Poff](https://zachpoff.com/artwork/pondstation/)
+
+Transmission, Reception as Sculpture
+- Mimicking Waves, Paloma Izquierdo
+- Drive In Music, Max Neuhaus
+- Relic, Oli XL
+- You are far from us, Anna Friz
+
+Communal Sound
+- Apparatus for the circulation of Indigenous voices and ideas into the air, Duane Linklater
+- KISS Sound, Familial Shoutouts
+
+Transmission Performance
+- Looking for the Silent Interference, Tetsuo Kogawa
+- Breathing Rotations, Stephen Adams, The Music Box Project
+- Theremin
+
+Mic Devices
+- Electromagnetic Antenna
+- Contact Microphone
+- Hydrophones
