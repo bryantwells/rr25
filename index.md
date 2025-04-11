@@ -46,7 +46,7 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 
 | In Class |
 | :--- |
-| Housekeeping (Class Are.na, Office Hours, ...) |
+| Housekeeping (Class Are.na, Office Hours, BC557), ... |
 | [Mini TX Workshop](/mini-tx-1.html) |
 | [Introduce Narrowcast Project](/narrowcast.html) |
 
