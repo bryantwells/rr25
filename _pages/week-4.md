@@ -11,5 +11,5 @@ layout: default
 - [WVSP Radio–Warrenton](https://mediaandthemovement.unc.edu/2013/03/10/wvsp-radio/), Joshua Davis
 - [Tickle Me Think](https://soundcloud.com/jpinkowitz/wvsp-radio-tickle-me-think), WVSP
 - [Africa on the Airwaves](https://mediaandthemovement.unc.edu/2013/03/20/africa-on-the-airwaves/), Joshua Davis
-- - [Childrens Radio Workshop](https://soundcloud.com/jpinkowitz/wafr-childrens-radio-workshop), WAFR
+- [Childrens Radio Workshop](https://soundcloud.com/jpinkowitz/wafr-childrens-radio-workshop), WAFR
 - [If This were an Ordinary Radio Station](https://soundcloud.com/sohp/wafr-radio-if-this-were-an), WAFR
