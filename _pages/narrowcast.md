@@ -5,7 +5,7 @@ layout: default
 
 # Narrowcast (Weeks 3-7)
 
-Create a site-specific ‘narrowcast’ transmission that responds to a particular context – social, spatial, sonic, or otherwise. You may use the transmitters we built in class (as-is or modified), work with multiple transmitters, or experiment with other transmission tools. Consider transmission as a form of…
+Create a site-specific ‘narrowcast’ radio transmission that responds to a particular context – social, spatial, sonic, or otherwise. You may use the transmitters we built in class (as-is or modified), work with multiple transmitters, or experiment with other transmission tools. Consider transmission as a form of…
 
 - Sonic practice
 - Sculpture
