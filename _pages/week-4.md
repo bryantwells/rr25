@@ -15,4 +15,4 @@ layout: default
 - [If This were an Ordinary Radio Station](https://soundcloud.com/sohp/wafr-radio-if-this-were-an), WAFR
 
 ### Additional
-- [RadioText(e)](https://archive.org/details/radiotexte0000unse/) (Radical Radio chapter, pp 291-298), Autonomedia
+- [RadioText(e)](https://www.are.na/block/36033944) (Radical Radio chapter, pp 291-298), Autonomedia
