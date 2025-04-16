@@ -88,7 +88,7 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 - Electromagnetic Antenna, [Priezor](https://store.lom.audio/products/priezor?variant=5859618062368), LOM
 - [Contact Microphone](https://en.wikipedia.org/wiki/Contact_microphone)
 - [Hydrophones](https://en.wikipedia.org/wiki/Hydrophone)
-- [RadioText(e)](https://archive.org/details/radiotexte0000unse/) (Radical Radio chapter, pp 291-298), Autonomedia
+- [RadioText(e)](https://www.are.na/block/36033944) (Radical Radio chapter, pp 291-298), Autonomedia
   [Baptized in Butter](https://drive.google.com/file/d/1x3DNmlnOLik7GbfyLUnHQAEqHUPAc-Tr/view?usp=sharing), WDIA
 - [False Teeth Lost](https://drive.google.com/file/d/1STGJOGIlkAg9gho5aLx7uAq921g6EjQ1/view?usp=drive_link), WDIA
 - [WVSP Radio–Warrenton](https://mediaandthemovement.unc.edu/2013/03/10/wvsp-radio/), Joshua Davis
