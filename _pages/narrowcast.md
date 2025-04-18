@@ -37,6 +37,8 @@ Prepare a brief summary of your narrowcast concept (~1 paragraph) outlining your
 
 ### Part 2: Draft (Week 4–5)
 
+Create a preliminary draft of your project (this may be a physical prototype, an audible draft, an organizational plan, etc.) for discussion/support in class.
+
 ---
 
 ### Part 3: Production (Week 5–6)

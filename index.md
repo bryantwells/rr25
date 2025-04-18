@@ -48,12 +48,26 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 | :--- |
 | Housekeeping (Class Are.na, Office Hours, ...) |
 | [Mini TX Workshop](/mini-tx-1.html) |
-| [Introduce Narrowcast Project](/narrowcast.html) |
 
 | At Home |
 | :--- |
 | [Week 4 Readings and Listenings](/week-4.html) |
 | [Narrowcast Part 1: Concept](/narrowcast.html) |
+
+---
+
+## Week 4
+
+| In Class |
+| :--- |
+| Housekeeping |
+| Radio and Community w/ [Babette Thomas](https://www.babettethomas.com/) |
+| [Discuss Narrowcast Project](/narrowcast.html) |
+| Concept Review (Breakout Groups) |
+
+| At Home |
+| :--- |
+| [Narrowcast Part 2: Draft](/narrowcast.html) |
 
 ---
 
