@@ -5,7 +5,7 @@ layout: default
 
 # Narrowcast (Weeks 3-7)
 
-Create a site-specific ‘narrowcast’ transmission that responds to a particular context – social, spatial, sonic, or otherwise. You may use the transmitters we built in class (as-is or modified), work with multiple transmitters, or experiment with other transmission tools. Consider transmission as a form of…
+Create a site-specific ‘narrowcast’ radio transmission that responds to a particular context – social, spatial, sonic, or otherwise. You may use the transmitters we built in class (as-is or modified), work with multiple transmitters, or experiment with other transmission tools. Consider transmission as a form of…
 
 - Sonic practice
 - Sculpture
@@ -20,11 +20,11 @@ The format, duration, and content of your narrowcast are open-ended, but you sho
 
 ### Questions
 
-- What is your relationship to your site, how does your work activate or reveal it?
+- What is your relationship to your site of transmission, how does your work activate or reveal it?
 - What frequencies are available?
 - Is your transmission fixed, mobile, ephemeral? 
 - Who might be listening? For how long?
-- How is it encountered? By accident, by sign, by rumor? Consider visual cues – stickers, flyers, physical components, etc.
+- How is it encountered? By accident, by sign, by rumor?
 - Can you take advantage of the qualities unique to radio? Body capacitance, proximity, signal noise, etc.
 
 ---
@@ -52,27 +52,26 @@ Create a preliminary draft of your project (this may be a physical prototype, an
 ## Reference
 
 Hidden Sound, Hidden Meaning
-- [Black Poplar: 89.6MHz, Dan Disciglio](https://danndisciglio.com/black-poplar-896-mhz)
-- [Pull Up, Simone White](https://vol3.temporaryliveness.org/)
+- [Black Poplar: 89.6MHz](https://danndisciglio.com/black-poplar-896-mhz), Dan Disciglio
+- [Pull Up](https://vol3.temporaryliveness.org/), Simone White
 - [Hellschreiber](https://en.wikipedia.org/wiki/Hellschreiber)
-- [Pond Station, Zach Poff](https://zachpoff.com/artwork/pondstation/)
+- [Pond Station](https://zachpoff.com/artwork/pondstation/), Zach Poff
 
 Transmission, Reception as Sculpture
-- Mimicking Waves, Paloma Izquierdo
-- Drive In Music, Max Neuhaus
-- Relic, Oli XL
-- You are far from us, Anna Friz
+- [Mimicking Waves](https://palomita.studio/antennas.html), Paloma Izquierdo
+- [Drive In Music](https://www.are.na/block/35894399), Max Neuhaus
+- [Relic](https://www.are.na/block/2899079), Oli XL
+- [You are far from us](https://nicelittlestatic.com/sound-radio-artworks/you-are-far-from-us/), Anna Friz
 
 Communal Sound
-- Apparatus for the circulation of Indigenous voices and ideas into the air, Duane Linklater
-- KISS Sound, Familial Shoutouts
+- [Apparatus for the circulation of Indigenous voices and ideas into the air](https://westernfront.ca/archives/get/ca_occurrences/1766), Duane Linklater
+- [KISS Sound](https://www.youtube.com/watch?v=LIZpE1RBHjM&t=58s)
 
 Transmission Performance
-- Looking for the Silent Interference, Tetsuo Kogawa
-- Breathing Rotations, Stephen Adams, The Music Box Project
-- Theremin
+- [Looking for the Silent Interference](https://www.youtube.com/watch?v=7-bZ9PwUwMQ), Tetsuo Kogawa
+- [Breathing Rotations](http://radia.fm/2025/04/show-1045-breathing-rotations-in-the-imaginary-radio-station-by-stephen-adams-with-the-music-box-project-diffusion/), Stephen Adams, The Music Box Project
 
 Mic Devices
-- Electromagnetic Antenna
-- Contact Microphone
-- Hydrophones
+- Electromagnetic Antenna, [Priezor](https://store.lom.audio/products/priezor?variant=5859618062368), LOM
+- [Contact Microphone](https://en.wikipedia.org/wiki/Contact_microphone)
+- [Hydrophones](https://en.wikipedia.org/wiki/Hydrophone)

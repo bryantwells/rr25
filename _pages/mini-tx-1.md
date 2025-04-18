@@ -6,7 +6,7 @@ layout: default
 
 # Mini TX (Basic)
 
-This is the most basic FM transmitter, is it adapted from schematics made by [Tetsuo Kogawa](https://anarchy.translocal.jp/radio/micro/howtotx.html), [Art Swan](https://www.angelfire.com/art2/artswan/), [Harry Lythall (SM0VPO)](http://sm0vpo.altervista.org/) and [Practical Electronics, fig 3.94](http://instrumentacion.qi.fcen.uba.ar/libro/Scherz.pdf). This design uses a assembly technique called [Manhattan Style](https://www.qrpme.com/docs/K7QO%20Manhattan.pdf).
+This is the most basic FM transmitter, it is adapted from schematics made by [Tetsuo Kogawa](https://anarchy.translocal.jp/radio/micro/howtotx.html), [Art Swan](https://www.angelfire.com/art2/artswan/), [Harry Lythall (SM0VPO)](http://sm0vpo.altervista.org/) and [Practical Electronics, fig 3.94](http://instrumentacion.qi.fcen.uba.ar/libro/Scherz.pdf). This design uses an assembly technique called [Manhattan Style](https://www.qrpme.com/docs/K7QO%20Manhattan.pdf).
 
 ---
 
