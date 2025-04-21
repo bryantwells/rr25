@@ -93,3 +93,4 @@ Students will build their own transmitters, capable of transmitting within a ~1 
 
 - Notes on [Google Docs](https://docs.google.com/document/d/17k0dTcyNA0Rn9K9W7k8uSoxUg8jlKddo6O_9NvBA_y4/edit?usp=sharing)
 - Recordings on [Google Drive](https://drive.google.com/drive/u/2/folders/1I_f76vxSGsTKSPTfw1mKbw8fx5WOwryV)
+- References on [Arena](https://www.are.na/radio-radius/radio-radius-references)
