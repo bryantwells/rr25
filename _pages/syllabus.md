@@ -37,7 +37,7 @@ Students will build their own transmitters, capable of transmitting within a ~1 
 ### Assignments
 
 1. [Sit Spot .MP3](https://rr25.daemon.earth/sit-spot.html) (Weeks 1–2)
-2. Narrowcast (Weeks 2–7)
+2. [Narrowcast](https://rr25.daemon.earth/narrowcast.html) (Weeks 2–7)
 
 <page-break></page-break>
 ---
@@ -50,23 +50,23 @@ Students will build their own transmitters, capable of transmitting within a ~1 
 
 2.  In Class: Sound and the City (online w/ Geng PTP)
     
-    At Home: Workshop Prep
+    At Home: [Workshop Prep](https://rr25.daemon.earth/workshop-prep-1.html)
 
-3. In Class: Workshop (Part 1) (in-person)
+3. In Class: [Workshop](https://rr25.daemon.earth/mini-tx-1.html) (Part 1: Mini TX) (in-person)
 
-    At Home: Narrowcast Concept
+    At Home: [Narrowcast](https://rr25.daemon.earth/narrowcast.html) Concept
 
 4. In Class: Radio and Community (online w/ Babette Thomas)
     
-    At Home: Narrowcast Draft
+    At Home: [Narrowcast](https://rr25.daemon.earth/narrowcast.html) Draft
 
 5. In Class: Workshop (Part 2) (in-person)
     
-    At Home: Narrowcast Production
+    At Home: [Narrowcast](https://rr25.daemon.earth/narrowcast.html) Production
 
 6. In Class: Site-Specificity (online w/ Lina Chang)
 
-    At Home: Narrowcast Final
+    At Home: [Narrowcast](https://rr25.daemon.earth/narrowcast.html) Final
 
 7. In Class: Narrowcast & Reflection (online)
 
@@ -81,8 +81,15 @@ Students will build their own transmitters, capable of transmitting within a ~1 
 
 ---
 
-### Special Question
+### Special Questions
 
 - How does radio reconfigure our sense of "local" in contrast to the global internet?
 - What are the ethical implications of broadcasting in a local context?
 - Can sound serve as a tool for building more equitable and accessible networks?
+
+---
+
+### Class Log
+
+- Notes on [Google Docs](https://docs.google.com/document/d/17k0dTcyNA0Rn9K9W7k8uSoxUg8jlKddo6O_9NvBA_y4/edit?usp=sharing)
+- Recordings on [Google Drive](https://drive.google.com/drive/u/2/folders/1I_f76vxSGsTKSPTfw1mKbw8fx5WOwryV)
