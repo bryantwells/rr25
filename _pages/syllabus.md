@@ -52,7 +52,7 @@ Students will build their own transmitters, capable of transmitting within a ~1 
     
     At Home: [Workshop Prep](https://rr25.daemon.earth/workshop-prep-1.html)
 
-3. In Class: [Workshop](https://rr25.daemon.earth/mini-tx-1.html) (Part 1: Mini TX) (in-person)
+3. In Class: Workshop (Part 1: [Mini TX](https://rr25.daemon.earth/mini-tx-1.html)) (in-person)
 
     At Home: [Narrowcast](https://rr25.daemon.earth/narrowcast.html) Concept
 
