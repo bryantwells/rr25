@@ -75,7 +75,7 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 
 | In Class |
 | :--- |
-| Work Session and 1:1s |
+| Work Session and [1:1s](https://docs.google.com/document/d/107p_Dmd-aD6L7j0um3Lz7sB_BJysBO-fZTITwnA1uRY/edit?tab=t.0) |
 | Optional: [Build a Dipole Antenna](/antenna.html) |
 | Optional: [Build another TX](/mini-tx-1.html) |
 | Optional: [Build a TX + Buffer](/mini-tx-2.html) |
