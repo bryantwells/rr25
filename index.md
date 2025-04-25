@@ -76,7 +76,11 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 | In Class |
 | :--- |
 | Work Session and 1:1s |
-| Optional: [Build an Antenna](/antenna.html) |
+| Optional: [Build a Dipole Antenna](/antenna.html) |
+| Optional: [Build another TX](/mini-tx-1.html) |
+| Optional: [Build a TX + Buffer](/mini-tx-2.html) |
+| Optional: [Build a TX + Mic](/mini-tx-2.html) |
+| Optional: [Build a Contact Mic + Preamp](https://www.chair.audio/diy-piezo-preamp/) |
 
 | At Home |
 | :--- |
