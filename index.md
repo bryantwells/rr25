@@ -113,6 +113,12 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 - [Harry's Homebrew Homepage](http://sm0vpo.altervista.org/)
 - [Manhattan Building Techniques](https://www.qrpme.com/docs/K7QO%20Manhattan.pdf)
 
+### Transmitters
+
+- [Transmitter Kits by Canakit (DIY)](https://www.canakit.com/fm-transmitters?srsltid=AfmBOooaEdVn0WBjmlqstyoJ1yGYeB2CF_PO0IYsyy4BA21j-2qJGgeK)
+- [CZE 25W Transmitter (Low Power)](http://www.czhfm.com/index.php?main_page=product_info&products_id=43&language=en)
+- [PCS Electronics Transmitters (Low and High Power)](https://www.pcs-electronics.com/?srsltid=AfmBOorSUJI14Wmh8ynY1qqO30-dhzYSzUMYL9MVITqrvVK7Xm7Q_E1P)
+
 ### Mini FM
 
 - [Toward Polymorphous Radio](https://drive.google.com/file/d/1YDdtHzgt00Tn1E4vpdQdbLqyKVmCRprT/view?usp=sharing), Tetsuo Kogawa, c. 1981
