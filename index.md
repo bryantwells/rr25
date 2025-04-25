@@ -71,6 +71,21 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 
 ---
 
+## Week 5
+
+| In Class |
+| :--- |
+| Work Session and 1:1s |
+| Optional: [Build an Antenna](/antenna.html) |
+
+| At Home |
+| :--- |
+| [Narrowcast Part 3: Production](/narrowcast.html) |
+| [Week 5 Listenings](/week-5.html) |
+
+---
+
+
 ![Meditations](/media/meditations.webp)
 *T. Lowe and T. Gilkes-Bower, “Meditations, Part 2: Bloodlines with Addis Pablo, Jesse Royal + Tesfa Zion,” LargeUp TV, 2013.*
 
@@ -80,10 +95,14 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 
 ---
 
-### Tutorials
+### Tutorials (on this site)
 - [Mini TX](/mini-tx-1.html)
 - [Mini TX + Mic](/mini-tx-2.html)
 - [Mini TX + Buffer](/mini-tx-3.html)
+- [Dipole Antenna](/antenna.html)
+
+
+### Tutorials (elsewhere)
 - [PCB Fabrication Files](/fab.html)
 - [How to Build a Micro Transmitter](https://anarchy.translocal.jp/radio/micro/howtotx.html)
 - [Art Swan's Electronic Circuits](https://www.angelfire.com/art2/artswan/)

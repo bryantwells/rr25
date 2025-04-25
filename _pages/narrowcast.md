@@ -41,11 +41,13 @@ Create a preliminary draft of your project (this may be a physical prototype, an
 
 ---
 
-### Part 3: Production (Week 5–6)
+### Part 3: Production (Week 5–7)
+
+Continue to build out your project!
 
 ---
 
-### Part 4: Final (Week 6–7)
+### Part 4: Final (Week 7)
 
 ---
 
