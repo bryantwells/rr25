@@ -49,6 +49,19 @@ Continue to build out your project!
 
 ### Part 4: Final (Week 7)
 
+During our last class, we'll do a round of sharing work and general reflections, about ~5–10min per person.
+
+#### If you’ve finished your narrowcast:
+- Share a breif recording, describe the experience of transmission / reception.
+
+#### If you’ve built partway or have a concept: 
+- Share what you’re working towards. You can share sketches, reference, progress or a project description/outline.
+
+#### Otherwise, Reflect:
+- What surprised or excited you during this course?
+- What would you like to learn more about?
+- How might you carry forward ideas from this class forward or into other media?
+
 ---
 
 ## Reference

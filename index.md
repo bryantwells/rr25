@@ -89,6 +89,20 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 
 ---
 
+## Week 6
+
+| In Class |
+| :--- |
+| Housekeeping (Transmitters, Office Hours, Final Class)
+| Site Specificity [w/ Lina Chang](https://lina-chang.com/) |
+| Progress Review (Breakout Groups) |
+
+| At Home |
+| :--- |
+| [Signup for Office Hours](https://docs.google.com/document/d/107p_Dmd-aD6L7j0um3Lz7sB_BJysBO-fZTITwnA1uRY/edit?tab=t.w02l6eduzrlp) |
+| [Narrowcast Part 4: Final](/narrowcast.html) |
+
+---
 
 ![Meditations](/media/meditations.webp)
 *T. Lowe and T. Gilkes-Bower, “Meditations, Part 2: Bloodlines with Addis Pablo, Jesse Royal + Tesfa Zion,” LargeUp TV, 2013.*
