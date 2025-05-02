@@ -93,7 +93,7 @@ Welcome to the home page for Radio's Radius: Mini FM and DIY Networks! This clas
 
 | In Class |
 | :--- |
-| Housekeeping (Transmitters, Office Hours, Final Class)
+| Housekeeping (Extra Transmitters, Mic TX, Office Hours, Final Class)
 | Site Specificity [w/ Lina Chang](https://lina-chang.com/) |
 | Progress Review (Breakout Groups) |
 
