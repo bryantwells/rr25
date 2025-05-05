@@ -49,10 +49,10 @@ Continue to build out your project!
 
 ### Part 4: Final (Week 7)
 
-During our last class, we'll do a round of sharing work and general reflections, about ~5–10min per person.
+During our last class, we'll do a round of sharing work and general reflections, about ~5–10min per person. Add your audio and image files, and text blocks or files to the class [Arena](https://www.are.na/radio-radius/radio-radius-narrowcast).
 
 #### If you’ve finished your narrowcast:
-- Share a breif recording, describe the experience of transmission / reception.
+- Share a brief recording, visual documentation, and describe the experience of transmission/reception.
 
 #### If you’ve built partway or have a concept: 
 - Share what you’re working towards. You can share sketches, reference, progress or a project description/outline.
@@ -60,7 +60,7 @@ During our last class, we'll do a round of sharing work and general reflections,
 #### Otherwise, Reflect:
 - What surprised or excited you during this course?
 - What would you like to learn more about?
-- How might you carry forward ideas from this class forward or into other media?
+- How might you carry forward ideas from this class into other media?
 
 ---
 
